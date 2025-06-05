@@ -21,6 +21,7 @@
 
 - ☁️ **Cloud Platforms**: AWS, GCP, Azure
 - 🖥️ **Virtualization**: VMware vSphere, Hyper-V, KVM, Proxmox, ESXi, and hybrid cloud
+- 📜 **Scriting** : Bash, Shell, Python, Power shell
 - 🛠️ **Infrastructure as Code**: Terraform, Pulumi, CloudFormation, Azure Resource Manager 
 - 🐳 **Containerization & Orchestration**: Docker, Kubernetes, Helm, Open Shift 
 - 🔁 **CI/CD Pipelines**: GitHub Actions, GitLab CI, Jenkins, ArgoCD  
