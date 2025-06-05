@@ -17,5 +17,36 @@
 - 📦 **Testing**: Penetration, Vulnerability, Load Testing, Performance
 - 🧪 **Chaos Engineering & Reliability Testing**: LitmusChaos, Gremlin
 
+## 💡 What I Do
 
+🔧 **DevOps & SRE**  
+- Automating everything: CI/CD pipelines, GitOps, and Infrastructure as Code  
+- Ensuring reliability, uptime, and performance in large-scale systems  
+- Implementing SLIs, SLOs, and error budgets
 
+☁️ **Cloud Engineering**  
+- Architecting and operating in AWS | GCP | Azure  
+- Kubernetes & container orchestration at scale  
+- Serverless and hybrid-cloud deployments
+
+🧱 **Infrastructure & Platform**  
+- Terraform, Pulumi, and Crossplane for IaC  
+- Building internal developer platforms (IDPs)  
+
+📊 **Observability & Performance**  
+- Designing robust monitoring and alerting with Prometheus, Grafana, ELK  
+- Tuning systems for latency, throughput, and fault tolerance
+
+---
+
+## 📂 Repositories
+
+- For SRE/DevOps - https://github.com/BindhuYe/knowledgebase
+
+- For testing concepts - https://github.com/BindhuYe/Testing
+
+- For Active Directory, VMware and infrastructure concepts - https://github.com/BindhuYe/infrastructure
+
+- For technology Performance comparisons - https://github.com/BindhuYe/performance
+
+- For security concepts - https://github.com/BindhuYe/security
