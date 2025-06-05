@@ -1,7 +1,4 @@
 ## Hi there 👋
-
-🚀 **Cloud | DevOps | SRE | Infrastructure | Testing | Performance | Observability**
-
 ---
 
 🔧 I have a diversified experience in the fields of Cloud,DevOps, SRE, Infrastructure, Platform, systems, Observability and Performance Engineering passionate about building reliable, scalable, and automated infrastructure. I thrive at the intersection of development and operations — driving performance, uptime, and velocity through automation and observability with reliable security standards.
