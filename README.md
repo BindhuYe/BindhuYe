@@ -34,7 +34,7 @@
 
 🖥️ **Virtualization**  
 - Proficient in virtualization platforms including **VMware, KVM, Hyper V**  
-- Building and managing virtual infrastructure and managing ACtive Directory
+- Building and managing virtual infrastructure and managing Active Directory
 - Integrating virtualization with cloud-native workflows and automation
 
 📊 **Observability & Performance**  
