@@ -40,7 +40,7 @@
 - Integrating virtualization with cloud-native workflows and automation
 
 📊 **Observability & Performance**  
-- Designing robust monitoring and alerting with Prometheus, Grafana, ELK  
+- Designing robust monitoring and alerting with Prometheus, Grafana, ELK, SPlunk, AppDynamics, Datadog
 - Tuning systems for latency, throughput, and fault tolerance
 
 ---
