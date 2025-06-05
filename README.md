@@ -8,7 +8,7 @@
 ### 🧰 Core Competencies
 
 - ☁️ **Cloud Platforms**: AWS, GCP, Azure  
-- 🛠️ **Infrastructure as Code**: Terraform, Pulumi, CloudFormation, Ayure Resource Manager 
+- 🛠️ **Infrastructure as Code**: Terraform, Pulumi, CloudFormation, Azure Resource Manager 
 - 🐳 **Containerization & Orchestration**: Docker, Kubernetes, Helm, Open Shift 
 - 🔁 **CI/CD Pipelines**: GitHub Actions, GitLab CI, Jenkins, ArgoCD  
 - 🔍 **Monitoring & Observability**: Prometheus, Grafana, ELK Stack, Datadog, Splunk, AppDznamics, Dynatrace
