@@ -33,8 +33,8 @@
 - Building internal developer platforms (IDPs)
 
 🖥️ **Virtualization**  
-- Proficient in virtualization platforms including **VMware, KVM, VirtualBox**  
-- Building and managing virtual infrastructure for dev/test and production  
+- Proficient in virtualization platforms including **VMware, KVM, Hyper V**  
+- Building and managing virtual infrastructure and managing ACtive Directory
 - Integrating virtualization with cloud-native workflows and automation
 
 📊 **Observability & Performance**  
