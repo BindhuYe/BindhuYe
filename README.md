@@ -5,6 +5,18 @@
 
 ---
 
+## 📂 Repositories
+
+- For SRE/DevOps - https://github.com/BindhuYe/knowledgebase
+
+- For testing concepts - https://github.com/BindhuYe/Testing
+
+- For Active Directory, VMware and infrastructure concepts - https://github.com/BindhuYe/infrastructure
+
+- For technology Performance comparisons - https://github.com/BindhuYe/performance
+
+- For security concepts - https://github.com/BindhuYe/security
+
 ### 🧰 Core Competencies
 
 - ☁️ **Cloud Platforms**: AWS, GCP, Azure
@@ -38,15 +50,3 @@
 - Tuning systems for latency, throughput, and fault tolerance
 
 ---
-
-## 📂 Repositories
-
-- For SRE/DevOps - https://github.com/BindhuYe/knowledgebase
-
-- For testing concepts - https://github.com/BindhuYe/Testing
-
-- For Active Directory, VMware and infrastructure concepts - https://github.com/BindhuYe/infrastructure
-
-- For technology Performance comparisons - https://github.com/BindhuYe/performance
-
-- For security concepts - https://github.com/BindhuYe/security
