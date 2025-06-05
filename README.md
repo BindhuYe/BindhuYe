@@ -12,7 +12,7 @@
 - 🛠️ **Infrastructure as Code**: Terraform, Pulumi, CloudFormation, Azure Resource Manager 
 - 🐳 **Containerization & Orchestration**: Docker, Kubernetes, Helm, Open Shift 
 - 🔁 **CI/CD Pipelines**: GitHub Actions, GitLab CI, Jenkins, ArgoCD  
-- 🔍 **Monitoring & Observability**: Prometheus, Grafana, ELK Stack, Datadog, Splunk, AppDznamics, Dynatrace
+- 🔍 **Monitoring & Observability**: Prometheus, Grafana, ELK Stack, Datadog, Splunk, AppDynamics, Dynatrace
 - 🔒 **Security & Compliance**: IAM, Secrets Management, CIS Benchmarks  
 - 📦 **Testing**: Penetration, Vulnerability, Load Testing, Performance
 - 🧪 **Chaos Engineering & Reliability Testing**: LitmusChaos, Gremlin
