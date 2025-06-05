@@ -30,7 +30,12 @@
 
 🧱 **Infrastructure & Platform**  
 - Terraform, Pulumi, and Crossplane for IaC  
-- Building internal developer platforms (IDPs)  
+- Building internal developer platforms (IDPs)
+
+🖥️ **Virtualization**  
+- Proficient in virtualization platforms including **VMware, KVM, VirtualBox**  
+- Building and managing virtual infrastructure for dev/test and production  
+- Integrating virtualization with cloud-native workflows and automation
 
 📊 **Observability & Performance**  
 - Designing robust monitoring and alerting with Prometheus, Grafana, ELK  
