@@ -10,7 +10,7 @@
 
 - For testing concepts - https://github.com/BindhuYe/Testing
 
-- For Active Directory, VMware and infrastructure concepts - https://github.com/BindhuYe/infrastructure
+- For Active Directory, VMware, migration and infrastructure concepts - https://github.com/BindhuYe/infrastructure
 
 - For technology Performance comparisons - https://github.com/BindhuYe/performance
 
