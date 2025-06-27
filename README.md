@@ -6,7 +6,7 @@
 
 ## 📂 Repositories
 
-- For SRE/DevOps - https://github.com/BindhuYe/knowledgebase
+- For SRE/DevOps/ Cloud - https://github.com/BindhuYe/knowledgebase
 
 - For testing concepts - https://github.com/BindhuYe/Testing
 
